@@ -28,6 +28,6 @@ following folder structure:
 
 All submissions are done on [Gradescope](https://www.gradescope.com/).
 
-On GradeScope, go into your Account Settings, and link your GitHub account to Gradescope.
+On Gradescope, go into your Account Settings, and link your GitHub account to Gradescope.
 
 Then on the course Gradescope, go to the **Homework 4** assignment, press the Submit button, choose the GitHub option, and select your project and branch.
