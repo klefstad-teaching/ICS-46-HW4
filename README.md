@@ -1,6 +1,6 @@
 # ICS 46: Homework 4
 
-Welcome to ICS 46 Homework 4! You will be implementing sorted lists.
+Welcome to ICS 46 Homework 4! You will be implementing holders.
 
 **Links**
 - [Instructions](https://sites.google.com/view/ics-46-data-structures/homework-4)
